@@ -1,2 +1,2 @@
 # JobPostApplication
-Full Stack Application Spring Boot and Spring Security 
+Full Stack Application Spring Boot 3 with Spring Security 
